@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6100584f562aa22bd8036f15"
+  },
+  "email": "chaima@dwwm.fr",
+  "prenom": "chaima",
+  "age": 36,
+  "createdAt": {
+    "$date": "2021-07-27T19:02:40.002Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610059e6562aa22bd8036f17"
+  },
+  "email": "theo@dwwm.fr",
+  "prenom": "theo",
+  "age": 26,
+  "createdAt": {
+    "$date": "2021-07-27T19:09:26.295Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610067aebf0d602984aa730a"
+  },
+  "email": "amine@dwwm.fr",
+  "prenom": "Amine",
+  "age": 45,
+  "createdAt": {
+    "$date": "2021-07-27T20:08:14.852Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61006aefefd5912b98e0db54"
+  },
+  "email": "jo@dwwm.fr",
+  "prenom": "JO",
+  "age": 30,
+  "createdAt": {
+    "$date": "2021-07-27T20:22:07.583Z"
+  },
+  "__v": 0
+}]
